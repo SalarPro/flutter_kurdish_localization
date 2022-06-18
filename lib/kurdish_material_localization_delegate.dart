@@ -75,37 +75,37 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
       _KurdishMaterialLocalizationsDelegate();
 
   @override
-  String get aboutListTileTitleRaw => 'دەربارەی \$applicationName';
+  String get aboutListTileTitleRaw => 'دەربارە \$applicationName';
 
   @override
-  String get alertDialogLabel => 'ئاگادارکردنەوە';
+  String get alertDialogLabel => 'ئاگەدارکرن';
 
   @override
-  String get anteMeridiemAbbreviation => 'پ.ن';
+  String get anteMeridiemAbbreviation => 'ب.ن';
 
   @override
-  String get backButtonTooltip => 'دواوە';
+  String get backButtonTooltip => 'زڤرین';
 
   @override
-  String get calendarModeButtonLabel => 'گۆڕین بۆ ڕۆژژمێر';
+  String get calendarModeButtonLabel => 'گهوڕین ژبو سالنامێ';
 
   @override
-  String get cancelButtonLabel => 'هەڵوەشاندنەوه';
+  String get cancelButtonLabel => 'هەلوەشاندن';
 
   @override
-  String get closeButtonLabel => 'داخستن';
+  String get closeButtonLabel => 'گرتن';
 
   @override
-  String get closeButtonTooltip => 'داخستن';
+  String get closeButtonTooltip => 'گرتن';
 
   @override
-  String get collapsedIconTapHint => 'فراوانکردن';
+  String get collapsedIconTapHint => 'فرەهکرن';
 
   @override
   String get continueButtonLabel => 'بەردەوام بە';
 
   @override
-  String get copyButtonLabel => 'کۆپی';
+  String get copyButtonLabel => 'کوپی';
 
   @override
   String get cutButtonLabel => 'بڕین';
@@ -114,178 +114,178 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
   String get dateHelpText => 'mm/dd/yyyy';
 
   @override
-  String get dateInputLabel => 'بەروار بنووسە';
+  String get dateInputLabel => 'بەرواری بنڤێسە';
 
   @override
-  String get dateOutOfRangeLabel => 'دەرەوەی مەودایە';
+  String get dateOutOfRangeLabel => 'دەرڤەی مەودایە';
 
   @override
-  String get datePickerHelpText => 'بەروار دیاری بکە';
+  String get datePickerHelpText => 'بەرواری دیار بکە';
 
   @override
-  String get dateRangeEndDateSemanticLabelRaw => 'بەرواری کۆتایی \$fullDate';
+  String get dateRangeEndDateSemanticLabelRaw => 'بەروارێ دوماهیێ \$fullDate';
 
   @override
-  String get dateRangeEndLabel => 'بەرواری کۆتایی';
+  String get dateRangeEndLabel => 'بەروارێ دوماهیێ';
 
   @override
-  String get dateRangePickerHelpText => 'دەست نیشانکردنی مەودا';
+  String get dateRangePickerHelpText => 'دەستنیشانکرنا مەودای';
 
   @override
   String get dateRangeStartDateSemanticLabelRaw =>
-      'بەرواری دەستپێکردن \$fullDate';
+      'بەروارێ دەستپێکرنێ \$fullDate';
 
   @override
-  String get dateRangeStartLabel => 'بەرواری دەستپێکردن';
+  String get dateRangeStartLabel => 'بەروارێ دەستپێکرنێ';
 
   @override
   String get dateSeparator => '/';
 
   @override
-  String get deleteButtonTooltip => 'سڕینەوە';
+  String get deleteButtonTooltip => 'ژێبرن';
 
   @override
-  String get dialModeButtonLabel => 'گۆڕین بۆ دۆخی هەڵبژێری داواکردن';
+  String get dialModeButtonLabel => 'گوهارتن ژبو هەلبژارتنا ساناهی';
 
   @override
-  String get dialogLabel => 'دیالۆگ';
+  String get dialogLabel => 'دیالوگ';
 
   @override
-  String get drawerLabel => 'لیستی ڕێنیشاندەر';
+  String get drawerLabel => 'لیستا ڕێنیشاندەر';
 
   @override
-  String get expandedIconTapHint => 'نوشتانەوە';
+  String get expandedIconTapHint => 'بچیک کردن';
 
   @override
-  String get hideAccountsLabel => 'شاردنەوەی ئەژمێرەکان';
+  String get hideAccountsLabel => 'ڤەشارتنا هژمارا';
 
   @override
-  String get inputDateModeButtonLabel => 'گۆڕین بۆ نووسین';
+  String get inputDateModeButtonLabel => 'گهورین ژبو نڤێسینێ';
 
   @override
-  String get inputTimeModeButtonLabel => 'گۆڕین بۆ دۆخی تێکردنی دەق';
+  String get inputTimeModeButtonLabel => 'گهورین ژبو نڤێسینێ';
 
   @override
-  String get invalidDateFormatLabel => 'فۆرماتی نادروست.';
+  String get invalidDateFormatLabel => 'فورمات یا خەلەتە.';
 
   @override
-  String get invalidDateRangeLabel => 'مەودایەکی نادروست.';
+  String get invalidDateRangeLabel => 'مەودا نەیێ دروستە';
 
   @override
-  String get invalidTimeLabel => 'کاتێکی دروست بنووسە';
+  String get invalidTimeLabel => 'دەمی دروس بنڤێسە';
 
   @override
-  String get licensesPackageDetailTextOne => '١ مۆڵەت';
+  String get licensesPackageDetailTextOne => '١ مولەت';
 
   @override
-  String get licensesPackageDetailTextOther => '\$licenseCount مۆڵەت';
+  String get licensesPackageDetailTextOther => '\$licenseCount مولەت';
 
   @override
-  String get licensesPackageDetailTextZero => 'مۆڵەت نیە';
+  String get licensesPackageDetailTextZero => 'مولەت نینە';
 
   @override
-  String get licensesPageTitle => 'مۆڵەتەکان';
+  String get licensesPageTitle => 'هەمی مولەت';
 
   @override
-  String get modalBarrierDismissLabel => 'دەرکردن';
+  String get modalBarrierDismissLabel => 'گرتن';
 
   @override
-  String get moreButtonTooltip => 'زیاتر';
+  String get moreButtonTooltip => 'پتر';
 
   @override
-  String get nextMonthTooltip => 'مانگی داهاتوو';
+  String get nextMonthTooltip => 'هەیڤا بهێت';
 
   @override
-  String get nextPageTooltip => 'لاپەڕەی داهاتوو';
+  String get nextPageTooltip => 'لاپەرێ بهێت';
 
   @override
-  String get okButtonLabel => 'باشه';
+  String get okButtonLabel => 'تەمام';
 
   @override
-  String get openAppDrawerTooltip => 'کردنەوەی لیستی ڕێنیشاندەر';
+  String get openAppDrawerTooltip => 'ڤەکرنا لیستا ڕێنیشاندەر';
 
   @override
-  String get pageRowsInfoTitleRaw => '\$firstRow–\$lastRow لە \$rowCount';
+  String get pageRowsInfoTitleRaw => '\$firstRow–\$lastRow ل \$rowCount';
 
   @override
   String get pageRowsInfoTitleApproximateRaw =>
-      '\$firstRow–\$lastRow تا \$rowCount';
+      '\$firstRow–\$lastRow هەتا \$rowCount';
 
   @override
   String get pasteButtonLabel => 'پەیست';
 
   @override
-  String get popupMenuLabel => 'لیستی دەرکەوتە';
+  String get popupMenuLabel => 'لیستا دەردکەڤیت';
 
   @override
-  String get postMeridiemAbbreviation => 'د.ن';
+  String get postMeridiemAbbreviation => 'پ.ن';
 
   @override
-  String get previousMonthTooltip => 'مانگی پێشوو';
+  String get previousMonthTooltip => 'هەیڤا بەری هینگێ';
 
   @override
-  String get previousPageTooltip => 'لاپەڕەی پێشوو';
+  String get previousPageTooltip => 'لاپەرێ بەری هینگێ';
 
   @override
-  String get refreshIndicatorSemanticLabel => 'نوێکردنەوە';
+  String get refreshIndicatorSemanticLabel => 'نویکردن';
 
   @override
   String? get remainingTextFieldCharacterCountFew => null;
 
   @override
-  List<String> get narrowWeekdays => ['ی', 'د', 'س', 'چ', 'پ', 'ه', 'ش'];
+  List<String> get narrowWeekdays => ['ئ', 'د', 'س', 'چ', 'پ', 'ئە', 'ش'];
 
   @override
   String? get remainingTextFieldCharacterCountMany => null;
 
   @override
-  String get remainingTextFieldCharacterCountOne => '١ پیت ماوە';
+  String get remainingTextFieldCharacterCountOne => '١ پیت یامای';
 
   @override
   String get remainingTextFieldCharacterCountOther =>
-      '\$remainingCount پیتەکان ماون';
+      '\$remainingCount پیت یێن ماین';
 
   @override
   String? get remainingTextFieldCharacterCountTwo => null;
 
   @override
-  String get remainingTextFieldCharacterCountZero => 'هیچ پیتێک نەماوەتەوە';
+  String get remainingTextFieldCharacterCountZero => 'چ پیت نەماینە';
 
   @override
-  String get reorderItemDown => 'بڕۆ خوارەوە';
+  String get reorderItemDown => 'ببە خارێ';
 
   @override
-  String get reorderItemLeft => 'بڕۆ لای چەپ';
+  String get reorderItemLeft => 'ببە لایێ چەپێ';
 
   @override
-  String get reorderItemRight => 'بڕۆ لای راست';
+  String get reorderItemRight => 'ببە لایێ راستێ';
 
   @override
-  String get reorderItemToEnd => 'بڕۆ کۆتایی';
+  String get reorderItemToEnd => 'ببە دوماهیێ';
 
   @override
-  String get reorderItemToStart => 'بڕۆ سەرەتا';
+  String get reorderItemToStart => 'ببە دەستپێکێ';
 
   @override
-  String get reorderItemUp => 'بڕۆ سەرەوە';
+  String get reorderItemUp => 'ببە سەری';
 
   @override
-  String get rowsPerPageTitle => 'ڕیزەکان بۆ هەر پەڕەیەک:';
+  String get rowsPerPageTitle => 'رێز ژبو هەر پەرەکی:';
 
   @override
-  String get saveButtonLabel => 'هەڵگرتن';
+  String get saveButtonLabel => 'هەلگرتن';
 
   @override
   ScriptCategory get scriptCategory => ScriptCategory.tall;
 
   @override
-  String get searchFieldLabel => 'گەڕان';
+  String get searchFieldLabel => 'لێگەریان';
 
   @override
-  String get selectAllButtonLabel => 'هەموو هەڵبژێرە';
+  String get selectAllButtonLabel => 'هەمیێ هەلبژێرە';
 
   @override
-  String get selectYearSemanticsLabel => 'ساڵ هەڵبژێرە';
+  String get selectYearSemanticsLabel => 'سالێ هەلبژێرە';
 
   @override
   String? get selectedRowCountTitleFew => null;
@@ -294,64 +294,65 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
   String? get selectedRowCountTitleMany => null;
 
   @override
-  String get selectedRowCountTitleOne => '١ دانە هەڵبژێردرا';
+  String get selectedRowCountTitleOne => '١ یا هاتیە لبژارتن';
 
   @override
-  String get selectedRowCountTitleOther => '\$selectedRowCount هەڵبژێردراو';
+  String get selectedRowCountTitleOther =>
+      '\$selectedRowCount هاتینە هەلبژارتن';
 
   @override
   String? get selectedRowCountTitleTwo => null;
 
   @override
-  String get selectedRowCountTitleZero => 'هیچ هەڵنەبژێراوە';
+  String get selectedRowCountTitleZero => 'چ نەهاتینە هەلبژارتن';
 
   @override
-  String get showAccountsLabel => 'پیشاندانی ئەژمێرەکان';
+  String get showAccountsLabel => 'هژمارا دیار بکە';
 
   @override
-  String get showMenuTooltip => 'پیشاندانی پێڕست';
+  String get showMenuTooltip => 'مێنیویێ دیار بکە';
 
   @override
-  String get signedInLabel => 'چوونە ژوورەوە';
+  String get signedInLabel => 'چونا ژورڤە';
 
   @override
-  String get tabLabelRaw => 'خشتەبەندی \$tabIndex لە \$tabCount';
+  String get tabLabelRaw => 'خشتێ دەمی \$tabIndex ژ \$tabCount';
 
   @override
   TimeOfDayFormat get timeOfDayFormatRaw => TimeOfDayFormat.h_colon_mm_space_a;
 
   @override
-  String get timePickerDialHelpText => 'کات هەڵبژێرە';
+  String get timePickerDialHelpText => 'دەمی هەلبژێرە';
 
   @override
-  String get timePickerHourLabel => 'کاتژمێر';
+  String get timePickerHourLabel => 'دەمژمێر';
 
   @override
-  String get timePickerHourModeAnnouncement => 'کاتژمێر هەڵبژێرە';
+  String get timePickerHourModeAnnouncement => 'دەمژـێرێ هەلبژێرە';
 
   @override
-  String get timePickerInputHelpText => 'کات بنووسە';
+  String get timePickerInputHelpText => 'دەمی بنڤێسە';
 
   @override
   String get timePickerMinuteLabel => 'خولەک';
 
   @override
-  String get timePickerMinuteModeAnnouncement => 'خولەک هەڵبژێرە';
+  String get timePickerMinuteModeAnnouncement => 'خولەکێ هەلبژێرە';
 
   @override
   String get unspecifiedDate => 'بەروار';
 
   @override
-  String get unspecifiedDateRange => 'مەودای بەروار';
+  String get unspecifiedDateRange => 'مەودانی رێکەفتی';
 
   @override
-  String get viewLicensesButtonLabel => 'پیشاندانی مۆڵەتەکان';
+  String get viewLicensesButtonLabel => 'دیارکرنا مولەتا';
 
   @override
-  String get firstPageTooltip => 'لاپه‌ڕه‌ی سه‌ره‌تا';
+  String get firstPageTooltip => 'لاپەرێ بەری دەستپێکێ';
 
   @override
-  String get lastPageTooltip => 'دوایین لاپه‌ڕه‌';
+  String get lastPageTooltip => 'لاپەرێ دوماهیێ';
 
   @override
   String get keyboardKeyAlt => throw UnimplementedError();
@@ -530,133 +531,133 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
 
 const kuDateSymbols = {
   'NAME': 'ku',
-  'ERAS': ['پ.ز', 'ز'],
-  'ERANAMES': ['پێش زاینی', 'زاینی'],
+  'ERAS': ['ب.ز', 'ز'],
+  'ERANAMES': ['بەری زاینی', 'زاینی'],
   'NARROWMONTHS': [
-    'ک.د',
+    'ک.ئ',
     'ش',
-    'ز',
-    'ن',
-    'م',
-    'ح',
-    'ت',
     'ئ',
-    'ل',
-    'ت.ی',
-    'ت.د',
-    'ک.ی'
+    'ن',
+    'گ',
+    'خ',
+    'تە',
+    'تی',
+    'ئە',
+    'چ.ئ',
+    'چ.د',
+    'ک.ئ'
   ],
   'STANDALONENARROWMONTHS': [
-    'ک.د',
+    'ک.ئ',
     'ش',
-    'ز',
-    'ن',
-    'م',
-    'ح',
-    'ت',
     'ئ',
-    'ل',
-    'ت.ی',
-    'ت.د',
-    'ک.ی'
+    'ن',
+    'گ',
+    'خ',
+    'تە',
+    'تی',
+    'ئە',
+    'چ.ئ',
+    'چ.د',
+    'ک.ئ'
   ],
   'MONTHS': [
-    'کانونی دووەم',
+    'کانینا دووێ',
     'شوبات',
-    'ئازار',
+    'ئادار',
     'نیسان',
-    'مایس',
-    'حوزەیران',
-    'تەمموز',
-    'ئاب',
+    'گولان',
+    'خزیران',
+    'تیرمەهـ',
+    'تەباخ',
     'ئەیلوول',
-    'تشرینی یەکەم',
-    'تشرینی دووەم',
-    'کانونی یەکەم',
+    'چریا ئێکێ',
+    'چریا دووێ',
+    'کانینا ئێکێ',
   ],
   'STANDALONEMONTHS': [
-    'کانونی دووەم',
+    'کانینا دووێ',
     'شوبات',
-    'ئازار',
+    'ئادار',
     'نیسان',
-    'مایس',
-    'حوزەیران',
-    'تەمموز',
-    'ئاب',
+    'گولان',
+    'خزیران',
+    'تیرمەهـ',
+    'تەباخ',
     'ئەیلوول',
-    'تشرینی یەکەم',
-    'تشرینی دووەم',
-    'کانونی یەکەم',
+    'چریا ئێکێ',
+    'چریا دووێ',
+    'کانینا ئێکێ',
   ],
   'SHORTMONTHS': [
-    'کانونی دووەم',
+    'کانینا دووێ',
     'شوبات',
-    'ئازار',
+    'ئادار',
     'نیسان',
-    'مایس',
-    'حوزەیران',
-    'تەمموز',
-    'ئاب',
+    'گولان',
+    'خزیران',
+    'تیرمەهـ',
+    'تەباخ',
     'ئەیلوول',
-    'تشرینی یەکەم',
-    'تشرینی دووەم',
-    'کانونی یەکەم',
+    'چریا ئێکێ',
+    'چریا دووێ',
+    'کانینا ئێکێ',
   ],
   'STANDALONESHORTMONTHS': [
-    'کانونی دووەم',
+    'کانینا دووێ',
     'شوبات',
-    'ئازار',
+    'ئادار',
     'نیسان',
-    'مایس',
-    'حوزەیران',
-    'تەمموز',
-    'ئاب',
+    'گولان',
+    'خزیران',
+    'تیرمەهـ',
+    'تەباخ',
     'ئەیلوول',
-    'تشرینی یەکەم',
-    'تشرینی دووەم',
-    'کانونی یەکەم',
+    'چریا ئێکێ',
+    'چریا دووێ',
+    'کانینا ئێکێ',
   ],
   'WEEKDAYS': [
-    'یەکشەممە',
-    'دووشەممە',
-    'سێشەممە',
-    'چوارشەممە',
-    'پێنجشەممە',
-    'هەینی',
-    'شەممە'
+    'ئێك شه‌مب',
+    'دووشه‌مب',
+    'سێ شه‌مب',
+    'چارشه‌مب',
+    'پێنچ شه‌مب',
+    'ئەینی',
+    'شه‌مبی'
   ],
   'STANDALONEWEEKDAYS': [
-    'یەکشەممە',
-    'دووشەممە',
-    'سێشەممە',
-    'چوارشەممە',
-    'پێنجشەممە',
-    'هەینی',
-    'شەممە'
+    'ئێك شه‌مب',
+    'دووشه‌مب',
+    'سێ شه‌مب',
+    'چارشه‌مب',
+    'پێنچ شه‌مب',
+    'ئەینی',
+    'شه‌مبی'
   ],
   'SHORTWEEKDAYS': [
-    'یەکشەم',
-    'دووشەم',
-    'سێشەم',
-    'چوارشەم',
-    'پێنجشەم',
-    'هەینی',
-    'شەممە'
+    'ئێك شه‌مب',
+    'دووشه‌مب',
+    'سێ شه‌مب',
+    'چارشه‌مب',
+    'پێنچ شه‌مب',
+    'ئەینی',
+    'شه‌مبی'
   ],
   'STANDALONESHORTWEEKDAYS': [
-    'یەکشەم',
-    'دووشەم',
-    'سێشەم',
-    'چوارشەم',
-    'پێنجشەم',
-    'هەینی',
-    'شەممە'
+    'ئێك شه‌مب',
+    'دووشه‌مب',
+    'سێ شه‌مب',
+    'چارشه‌مب',
+    'پێنچ شه‌مب',
+    'ئەینی',
+    'شه‌مبی'
   ],
-  'NARROWWEEKDAYS': ['ی', 'د', 'س', 'چ', 'پ', 'ه', 'ش'],
-  'STANDALONENARROWWEEKDAYS': ['ی', 'د', 'س', 'چ', 'پ', 'ه', 'ش'],
+  'NARROWWEEKDAYS': ['ئ', 'د', 'س', 'چ', 'پ', 'ئە', 'ش'],
+  'STANDALONENARROWWEEKDAYS': ['ئ', 'د', 'س', 'چ', 'پ', 'ئە', 'ش'],
   'SHORTQUARTERS': ['چ١', 'چ٢', 'چ٣', 'چ٤'],
-  'QUARTERS': ['چارەکی یەکەم', 'چارەکی دووەم', 'چارەکی سێیەم', 'چارەکی چوارەم'],
-  'AMPMS': ['پ.ن', 'د.ن'],
+  'QUARTERS': ['چارێکا ئێکێ', 'چارێکا دووێ', 'چارێکا سیێ', 'چارێکا چارێ'],
+  'AMPMS': ['ب.ن', 'پ.ن'],
   'DATEFORMATS': [
     'EEEE، d MMMM y',
     'd MMMM y',
